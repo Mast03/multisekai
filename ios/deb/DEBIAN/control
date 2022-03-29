@@ -1,0 +1,9 @@
+Package: io.github.mast03.multisekai
+Name: MultiSekai
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: CLI tool(s) to manipulate Project Sekai's iOS configuration files (Mostly account switching related)
+Author: Mast03
+Maintainer: Mast03
+Section: Tools
+
